@@ -1,0 +1,5 @@
+dist2/
+dist/
+input/
+*.new
+offscene_updater.bat
